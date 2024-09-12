@@ -1,0 +1,26 @@
+{"finances": [
+    {
+        "date": "07/08/2004",
+        "amount": 10,
+        "description": "hello",
+        "card": "TD"
+    },
+    {
+        "date": "09/05/2024",
+        "amount": -15,
+        "description": "help",
+        "card": "BMO"
+    },
+    {
+        "date": "09/09/0009",
+        "amount": -4,
+        "description": "sleeeeep",
+        "card": "AMEX"
+    },
+    {
+        "date": "06",
+        "amount": 10,
+        "description": "hello",
+        "card": "bmo"
+    }
+]}
